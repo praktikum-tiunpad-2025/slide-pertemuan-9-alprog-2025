@@ -1,6 +1,6 @@
 ---
 layout: center
-transition: slide-up
+transition: slide-down
 ---
 
 ## Penggunaan Record

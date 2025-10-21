@@ -4,7 +4,7 @@ Ada dua bentuk interaksi antara array dan record, yaitu array of records dan arr
 Untuk mengumpulkan banyak variabel record di satu tempat, dapat digunakan array.
 Untuk mengakses member dari salah satu variabel record pada array, pertama digunakan kurung siku untuk mengakses elemen tertentu dari variabel array, kemudian operator dot untuk mengakses suatu member dari elemen struct tersebut.
 
-```cpp twoslash
+```cpp {monaco}
 struct Ktp {
     string nama;
     int tahunLahir;

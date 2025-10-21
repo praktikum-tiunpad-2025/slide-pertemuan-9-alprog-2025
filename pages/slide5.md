@@ -2,7 +2,7 @@
 layout: center
 ---
 ````md magic-move {lines: true}
-```cpp {*|1-6|9-14|16-22|*} twoslash
+```cpp {*|1-6|9-14|16-22|*} {monaco}
 struct NilaiMahasiswa { 
     string nama;
     double nilaiKuis;
