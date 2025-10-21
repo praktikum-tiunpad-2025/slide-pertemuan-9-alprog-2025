@@ -1,13 +1,17 @@
+---
+transition: slide-down
+---
 ## Pendefinisian Record
 Pada C++, kita mendefinisikan sebuah tipe data record menggunakan keyword struct.
 
 ```cpp twoslash
+// 1          2
 struct NilaiMahasiswa { 
-    string namaMahasiswa; 
+    string namaMahasiswa; //3
     double nilaiKuis;
     double nilaiUTS;
     double nilaiUAS;
-}; 
+}; //4
 ```
 
 Keterangan:
