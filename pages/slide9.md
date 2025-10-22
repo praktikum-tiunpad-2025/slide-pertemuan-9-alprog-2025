@@ -4,7 +4,10 @@ layout: center
 <div style="max-width: 800px; ; margin: 0 auto;">
 
 # Fungsi dan Record
+
+<span style="opacity: 1;">
 Karena record adalah sebuah tipe data, record dapat digunakan sebagai parameter maupun tipe data return dari suatu function.
+</span>
 
 Kita tahu bahwa record (struct) di C++ adalah tipe data buatan kita sendiri — alias _user-defined_ type.
 Nah karena dia dianggap tipe data, maka perlakuannya sama seperti tipe data lain kayak `int`, `double`, atau `string`.

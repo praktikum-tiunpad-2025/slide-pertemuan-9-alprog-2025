@@ -5,7 +5,10 @@ layout: center
 
 # Nested Record
 
+<span style="opacity: 1;">
 Sebuah record dapat memiliki member yang merupakan record lain seperti contoh berikut.
+</span>
+
 
 ```cpp
 struct Alamat {

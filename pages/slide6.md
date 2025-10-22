@@ -1,5 +1,9 @@
 # Array dan Record
+
+<span style="opacity: 1;">
 Ada dua bentuk interaksi antara array dan record, yaitu array of records dan array sebagai member record
+</span>
+
 ### Array of Record
 Untuk mengumpulkan banyak variabel record di satu tempat, dapat digunakan array.
 Untuk mengakses member dari salah satu variabel record pada array, pertama digunakan kurung siku untuk mengakses elemen tertentu dari variabel array, kemudian operator dot untuk mengakses suatu member dari elemen struct tersebut.

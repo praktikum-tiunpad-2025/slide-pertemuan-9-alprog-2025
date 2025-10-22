@@ -5,7 +5,9 @@ layout: center
 
 # Record
 
+<span style="opacity: 1;">
 Pada umumnya, array digunakan untuk mengumpulkan beberapa nilai dengan tipe data yang sama di satu tempat. Akan tetapi, untuk mengelompokkan beberapa data yang bertipe berbeda, kamu dapat menggunakan record.
+</span>
 
 Record adalah suatu tipe data yang merupakan kumpulan dari beberapa tipe data.
 
