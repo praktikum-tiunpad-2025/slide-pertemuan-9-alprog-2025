@@ -7,8 +7,8 @@ layout: center
 <ol style="font-size: 1.2em; line-height: 1.8em;">
   <li>
     <b>Kelas A</b><br>
-    <a href="https://classroom.github.com/a/ubTqa5bT" target="_blank" style="opacity: 0.8; color: #42b983; text-decoration: underline;">
-      https://classroom.github.com/a/ubTqa5bT
+    <a href="https://classroom.github.com/a/LcqDvrr8" target="_blank" style="opacity: 0.8; color: #42b983; text-decoration: underline;">
+      https://classroom.github.com/a/LcqDvrr8
     </a>
   </li>
   <li>
